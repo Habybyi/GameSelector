@@ -1,3 +1,8 @@
+## Preview of my project
+
+![image](https://github.com/Habybyi/GameSelector/assets/128488292/07fc7e67-18d7-44ce-ae5a-af5bd3d258fa)
+
+##
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
