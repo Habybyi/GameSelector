@@ -49,7 +49,7 @@ const Content = () => {
     }
     return (
         <main>
-            <h1 className='title'>Vyber Hier</h1>
+            <h1 className='title'>Výber Hier</h1>
             <div className="input">
                 <input type="text" ref={searchRef} className="srchbar" placeholder='Aku hru hladas?' onDoubleClick={handleRef} />
             </div>
